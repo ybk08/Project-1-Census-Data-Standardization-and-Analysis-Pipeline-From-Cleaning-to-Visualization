@@ -40,6 +40,32 @@ Fetch data from MongoDB and upload it to a relational database, ensuring proper 
 
 Perform various queries to gather insights from the data.
 
+## Usage
+
+### 1. Clone the Repository:
+`
+git clone https://github.com/ybk08/Project-1-Census-Data-Standardization-and-Analysis-Pipeline-From-Cleaning-to-Visualization.git
+
+cd Project-1-Census-Data-Standardization-and-Analysis-Pipeline-From-Cleaning-to-Visualization
+`
+### 2. Run the Script:
+
+`python -m streamlit run census.py` : To show output using streamlit
+
+### 3. Access the Data:
+
+Data will be saved to MongoDB and can be uploaded to a relational database as per the code in census.py.
+
 ## File Structure
 
+`census_2011.xlsx`: Contains the raw data.
+
 `census.py`: Contains the complete code for the project, organized into sections for data pipeline and analysis.
+
+`Telangana.txt`: Contains districts after the formation of Telangana from Andhra Pradesh. 
+
+`db_credentials.txt`: Contains Database username and password.
+
+## Contact Information
+
+For questions or support, please contact yashkoli995@gmail.com.
