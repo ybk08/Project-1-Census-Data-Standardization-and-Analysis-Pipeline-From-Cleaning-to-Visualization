@@ -66,6 +66,8 @@ Data will be saved to MongoDB and can be uploaded to a relational database as pe
 
 `db_credentials.txt`: Contains Database username and password.
 
+`Census_Data_Standardization_Analysis_Pipeline.pptx`: Contains a presentation explaining the process followed for making the sucessful standardization.
+
 ## Contact Information
 
 For questions or support, please contact yashkoli995@gmail.com.
